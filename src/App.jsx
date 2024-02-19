@@ -5,7 +5,7 @@ import {
   Possibility,
   Features,
   WhatGPT3,
-  Header,
+  Header
 } from "./containers";
 import { CTA, Brand, Navbar } from "./components";
 import "./app.css";
